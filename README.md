@@ -1,6 +1,6 @@
 # CSEShell
-This is a simple, custom shell for Unix-based systems, designed to provide an interface for executing system programs. This project includes a basic shell implementation, a set of system programs (`find`, `ld`, `ldr`), and some test files.
-This project is done with  powerpony and BoweiDu01
+This is a simple, custom shell for Unix-based systems, designed to provide an interface for executing system programs. This project includes a basic shell implementation, a set of system programs (`find`, `ld`, `ldr`), and some test files.\
+This project is done with  powerpony and BoweiDu01.
 
 ## Directory Structure
 
